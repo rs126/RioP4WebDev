@@ -27,3 +27,10 @@ To run the tests for the project, run the following command:
 ```bash
 npm test
 ```
+
+##Accessiblity Lab Answers
+1.The content is still not very accessible — report on what happens when you try to navigate it using a keyboard.
+2.Can you update the article text to make it easier for screen reader users to navigate?
+3.The navigation menu part of the site (wrapped in <div class="nav"></div>) could be made more accessible by putting it in a proper HTML semantic element. Which one should it be updated to? Make the update.
+
+
