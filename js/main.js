@@ -48,7 +48,7 @@ function submitComment() {
 
 
 
-// Control transcript display
+// Control transcript display on webpage
 
 const transcript = document.querySelector('.transcript');
 const transcriptBtn = document.querySelector('.transcript-container button');
